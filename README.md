@@ -6,24 +6,20 @@ This project explores and analyzes a global SaaS (Software as a Service) sales d
 # 🎯 Objective:
 To perform data analysis and generate business insights for a SaaS company by answering key questions like:
 
-Which countries and regions are the most profitable?
-
-What product categories are top sellers?
-
-Which customer segments generate the most revenue?
-
-How are discounts affecting profit?
-
-What are the trends in annual sales performance?
+- Which countries and regions are the most profitable?
+- What product categories are top sellers?
+- Which customer segments generate the most revenue?
+- How are discounts affecting profit?
+- What are the trends in annual sales performance?
 
 # 🧰 Tools Used:
-Language: Python
+- Language: Python
 
-Libraries: Pandas, Matplotlib, Seaborn
+- Libraries: Pandas, Matplotlib, Seaborn
 
-Environment: Jupyter Notebook
+- Environment: Jupyter Notebook
 
-Data Source: Kaggle - SaaS Sales Dataset (link can be added)
+- Data Source: Kaggle - SaaS Sales Dataset (link can be added)
 
 # 📊 Key Business Insights:
 🔹 1. Total Sales and Profit by Year
@@ -52,10 +48,10 @@ United States, Germany, and Ireland emerged as top-performing countries.
 Some countries had higher sales but poor profit margins due to discounts.
 
 # 📌 Business Recommendations:
-Reduce high discounting in loss-making segments.
+- Reduce high discounting in loss-making segments.
 
-Focus marketing efforts on top-performing regions.
+- Focus marketing efforts on top-performing regions.
 
-Push high-margin products in strategic and enterprise segments.
+- Push high-margin products in strategic and enterprise segments.
 
-Customize product offering based on regional product trends.
+- Customize product offering based on regional product trends.
