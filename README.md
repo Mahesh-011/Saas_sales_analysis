@@ -1,9 +1,9 @@
 # SaaS Sales Analytics Dashboard using Python (Pandas, Matplotlib & Seaborn)
 
-🧠 Project Overview:
+# 🧠 Project Overview:
 This project explores and analyzes a global SaaS (Software as a Service) sales dataset to extract valuable insights related to product performance, customer segments, profitability, and regional trends. The goal is to enable business leaders to make data-driven decisions to optimize sales and improve market penetration.
 
-🎯 Objective:
+# 🎯 Objective:
 To perform data analysis and generate business insights for a SaaS company by answering key questions like:
 
 Which countries and regions are the most profitable?
@@ -16,7 +16,7 @@ How are discounts affecting profit?
 
 What are the trends in annual sales performance?
 
-🧰 Tools Used:
+# 🧰 Tools Used:
 Language: Python
 
 Libraries: Pandas, Matplotlib, Seaborn
@@ -25,7 +25,7 @@ Environment: Jupyter Notebook
 
 Data Source: Kaggle - SaaS Sales Dataset (link can be added)
 
-📊 Key Business Insights:
+# 📊 Key Business Insights:
 🔹 1. Total Sales and Profit by Year
 2022 generated the highest sales and profit overall.
 
@@ -51,7 +51,7 @@ United States, Germany, and Ireland emerged as top-performing countries.
 
 Some countries had higher sales but poor profit margins due to discounts.
 
-📌 Business Recommendations:
+# 📌 Business Recommendations:
 Reduce high discounting in loss-making segments.
 
 Focus marketing efforts on top-performing regions.
