@@ -6,11 +6,17 @@ This project explores and analyzes a global SaaS (Software as a Service) sales d
 
 ## 📁 Dataset Overview
 
-The dataset (`AWS_SaaS_Sales.csv`) contains **9,994 records** with 19 columns. It includes:
+This project utilizes the [AWS SaaS Sales Dataset](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales) from Kaggle, which contains transaction data from a fictitious B2B SaaS company offering sales and marketing software.
+
+This dataset contains **9,994 records** with 19 columns. It includes:
 
 - **Order details**: Order Date, Country, Region, Product, License
 - **Customer info**: Contact Name, Segment, Industry
 - **Financials**: Sales, Quantity, Discount, Profit
+
+## 📁 Dataset
+
+
 
 ---
 ## 🛠️ Tools Used
