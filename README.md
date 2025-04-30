@@ -14,11 +14,6 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 - **Customer info**: Contact Name, Segment, Industry
 - **Financials**: Sales, Quantity, Discount, Profit
 
-## 📁 Dataset
-
-
-
----
 ## 🛠️ Tools Used
 
 - **Python**
