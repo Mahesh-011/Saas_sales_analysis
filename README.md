@@ -32,7 +32,9 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 6. What are the most profitable **segments, industries, and license types**?
 
 ---
+## 📌 Sample Visual
 
+![Monthly Sales Trend](https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Monthly_sales_trend.png?raw=true)
 ## 📊 Key Visualizations
 
 - 📈 Monthly Sales Trend (line chart)
@@ -45,6 +47,8 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 - 📉 Discount vs Profit Relationship (scatter plot)
 
 ---
+
+https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Monthly_sales_trend.png?raw=true
 
 
 
