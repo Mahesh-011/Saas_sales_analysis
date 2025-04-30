@@ -34,7 +34,15 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 ---
 ## 📌 Sample Visual
 
+### Monthly Sales Trend
 ![Monthly Sales Trend](https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Monthly_sales_trend.png?raw=true)
+
+### Revenue Breakdown
+![Revenue Breakdown](https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Revenue_breakdown.png?raw=true)
+
+### Top 10 Sellling Products
+![Top Selling Products](#)
+
 ## 📊 Key Visualizations
 
 - 📈 Monthly Sales Trend (line chart)
@@ -48,7 +56,6 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 
 ---
 
-https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Monthly_sales_trend.png?raw=true
 
 
 
