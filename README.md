@@ -57,7 +57,7 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 - ### Top 10 Sellling Products
 ![Top Selling Products](https://github.com/Mahesh-011/Saas_sales_analysis/blob/main/Images/Top_Selling_Products.png?raw=true)
 
-## ✅ Outcomes & Insights
+## ✅ Key Findings
 
 - SMBs contribute over 50% of total revenue.
 - Certain license types consistently outperform others in profit margins.
