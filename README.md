@@ -1,4 +1,4 @@
-# 📊 Saas Sales Analytics Project (Python & Pandas)
+# 📊 Saas Sales Analysis. (Python & Pandas)
 
 This project explores and analyzes a global SaaS (Software as a Service) sales dataset to extract valuable insights related to product performance, customer segments, profitability, and regional trends. The goal is to enable business leaders to make data-driven decisions to optimize sales and improve market penetration.
 
@@ -59,10 +59,12 @@ This dataset contains **9,994 records** with 19 columns. It includes:
 
 ## ✅ Key Findings
 
+- USA, United Kingdom, and Canada are the most profitable countries.
 - SMBs contribute over 50% of total revenue.
-- Certain license types consistently outperform others in profit margins.
 - High discounts often lead to reduced profit, confirming the need for pricing strategy optimization.
-- Specific countries and regions present untapped potential for growth
+- Certain license types consistently outperform others in profit margins.
+- ContactMatcher and FinanceHub dominate across regions.
+- Specific countries and regions present untapped potential for growth.
 
 ---
 
