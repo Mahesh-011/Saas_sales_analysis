@@ -1,4 +1,4 @@
-# 📊 Saas Sales Analysis. (Python & Pandas)
+# 📊 Saas Sales Analysis (Python & Pandas)
 
 This project explores and analyzes a global SaaS (Software as a Service) sales dataset to extract valuable insights related to product performance, customer segments, profitability, and regional trends. The goal is to enable business leaders to make data-driven decisions to optimize sales and improve market penetration.
 
